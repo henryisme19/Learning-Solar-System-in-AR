@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042041969782",
+    "project_id": "solar-system-app-a980a",
+    "storage_bucket": "solar-system-app-a980a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042041969782:android:ba194a5542ae82e63ad357",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.A176017FYP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042041969782-k8iuv565mmelkc05u39g64jvts20vv8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkoYUiN3ZSEgXaeq88uN5hNVE0JVhDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042041969782-k8iuv565mmelkc05u39g64jvts20vv8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

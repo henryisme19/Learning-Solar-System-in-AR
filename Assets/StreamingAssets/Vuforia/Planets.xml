@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SolarSystem" size="0.050000 0.064225" />
+    <ImageTarget name="Venus" size="0.050000 0.063459" />
+    <ImageTarget name="Uranus" size="0.050000 0.064276" />
+    <ImageTarget name="Sun" size="0.050000 0.065857" />
+    <ImageTarget name="Saturn" size="0.050000 0.061201" />
+    <ImageTarget name="Pluto" size="0.050000 0.063448" />
+    <ImageTarget name="Neptune" size="0.050000 0.064523" />
+    <ImageTarget name="Mercury" size="0.050000 0.065217" />
+    <ImageTarget name="Mars" size="0.050000 0.064476" />
+    <ImageTarget name="Jupiter" size="0.050000 0.066074" />
+    <ImageTarget name="Earth" size="0.050000 0.067514" />
+  </Tracking>
+</QCARConfig>
